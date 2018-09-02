@@ -1,7 +1,7 @@
 # RandomPrograms
-#Pandas installation for Python 3: sudo apt-get install python3-pandas
-#Numpy installation for Python 3: sudo apt-get install python3-numpy
-#NLTK installation for Python 3: sudo pip3 install nltk
-#Libraries for NLTK: 
-#import nltk
-#nltk.download('all')
+Pandas installation for Python 3: sudo apt-get install python3-pandas <br/>
+Numpy installation for Python 3: sudo apt-get install python3-numpy <br/>
+NLTK installation for Python 3: sudo pip3 install nltk <br/>
+Libraries for NLTK: <br/>
+import nltk <br/>
+nltk.download('all') <br/>
